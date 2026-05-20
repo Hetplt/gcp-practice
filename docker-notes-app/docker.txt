@@ -1,0 +1,6 @@
+Docker Commands
+
+1. docker ps
+2. docker images
+3. docker run
+4. docker stop

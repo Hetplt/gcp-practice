@@ -1,0 +1,5 @@
+Nginx Notes
+
+1. Reverse Proxy
+2. Load Balancer
+3. Web Server

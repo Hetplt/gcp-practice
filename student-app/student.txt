@@ -1,0 +1,7 @@
+Student Management System
+
+Features:
+1. Login
+2. Dashboard
+3. Student Profile
+4. User Authentication
